@@ -23,7 +23,7 @@ class Player extends GameObject {
         super(x, y, w, h);
         this.#colour = colour;
         this.#speed = speed;
-    }
+    }k
 
 
     /**
